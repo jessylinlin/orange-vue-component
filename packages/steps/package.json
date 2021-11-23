@@ -1,5 +1,5 @@
 {
-  "name": "lg-steps",
+  "name": "or-steps",
   "version": "0.0.2",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -11,5 +11,5 @@
   "keywords": [],
   "author": "教瘦 <54337467@qq.com>",
   "license": "MIT",
-  "gitHead": "08791060a9bc753470d3e261af6e4bf94fd3a88f"
+  "gitHead": "a20799ff23c703d81fe7bdc34993b3ad11b14549"
 }

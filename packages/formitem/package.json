@@ -1,5 +1,5 @@
 {
-  "name": "lg-form-item",
+  "name": "or-form-item",
   "version": "0.0.2",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -15,5 +15,5 @@
     "async-validator": "^3.3.0",
     "lodash": "3"
   },
-  "gitHead": "08791060a9bc753470d3e261af6e4bf94fd3a88f"
+  "gitHead": "a20799ff23c703d81fe7bdc34993b3ad11b14549"
 }
