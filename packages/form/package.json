@@ -1,6 +1,6 @@
 {
-  "name": "lg-form",
-  "version": "0.0.3",
+  "name": "or-form",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
@@ -11,5 +11,5 @@
   "keywords": [],
   "author": "教瘦 <54337467@qq.com>",
   "license": "MIT",
-  "gitHead": "a20799ff23c703d81fe7bdc34993b3ad11b14549"
+  "gitHead": "08791060a9bc753470d3e261af6e4bf94fd3a88f"
 }
