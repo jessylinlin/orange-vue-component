@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "教瘦 <54337467@qq.com>",
   "license": "MIT",
-  "gitHead": "bb5ed84a902d78d84d54e86a4c61bcd93d2681f9",
+  "gitHead": "9cba2c6476f1a80c7615ae3133ca92ba9193b3dd",
   "dependencies": {
     "lodash": "4"
   }
